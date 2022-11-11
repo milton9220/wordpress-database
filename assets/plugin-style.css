@@ -1,0 +1,29 @@
+.data-table,
+.form{
+    background-color: #fff;
+    padding: 30px;
+}
+.form input{
+    display: block;
+    margin-bottom: 20px;
+    padding: 12px 30px;
+    height: 45px;
+    width: 100%;
+    background-color: #f1f1f1;
+}
+.form span{
+    font-size: 16px;
+    font-weight: 500;
+    color: #000;
+    margin-bottom: 5px;
+    display: inline-block;
+}
+.form input[type="submit"]{
+    width: auto;
+}
+.data-table{
+    margin-top: 30px;
+}
+.data-table h2{
+    margin-bottom: 5px;
+}
